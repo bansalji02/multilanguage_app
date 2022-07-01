@@ -1,0 +1,11 @@
+{
+  "language" : "English",
+  "@language" : {
+  "description" : " The current language"
+  },
+
+  "intro" : "I am Himanshu Bansal.. A student, learner and programmer",
+  "@intro" :{
+  "description" :"some faltu info about me"
+  }
+}
